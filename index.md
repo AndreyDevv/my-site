@@ -1,1 +1,0 @@
-    Mac OS X            	   2   Ъ                                           ATTR         А   L                  А     com.apple.lastuseddate#PS       Р   <  com.apple.quarantine Mу`    ‹ыd    q/0081;6013f1ca;Chrome;74AFA57B-6CC6-4848-A040-EDEBC10A14DC 
