@@ -85,6 +85,20 @@ body {
   background-image: url("img/icon-phone-alt.svg");
 }
 
+.header-tg,
+.footer-tg {
+  padding-left: 30px;
+  background-image: url("img/icon-tg.png");
+  background-size: 20px;
+}
+
+.header-tg:focus,
+.header-tg:hover,
+.footer-tg:focus,
+.footer-tg:hover {
+  background-image: url("img/icon-tg-alt.png");
+}
+
 .page-header a:active,
 .page-footer a:active {
   opacity: 0.5;
@@ -238,6 +252,11 @@ body {
 
 .skill-css {
   background-image: url("img/icon-css.svg");
+}
+
+.skill-js {
+  background-image: url("img/icon-js.png");
+  background-size: 30px 30px;
 }
 
 .level {
