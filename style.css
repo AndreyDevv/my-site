@@ -170,13 +170,13 @@ body {
   background-image: url("img/pattern-lines.svg");
   background-repeat: repeat-y;
   background-position-x: center;
-  text-align: center;
 }
 
 .intro {
   padding-top: 160px;
   padding-bottom: 120px;
   min-height: 828px;
+  text-align: justify;
 }
 
 .subheading {
@@ -281,6 +281,7 @@ body {
 .portfolio {
   margin: 0;
   padding-bottom: 160px;
+  text-align: center;
 }
 
 .projects {
