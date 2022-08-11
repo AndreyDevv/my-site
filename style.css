@@ -223,6 +223,13 @@ body {
   z-index: 2;
 }
 
+.rusume-icon {
+  position: absolute;
+  top: 535px;
+  left: 930px;
+}
+
+
 .skills {
   margin-bottom: 0;
 }
